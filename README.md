@@ -1,6 +1,6 @@
 # Hi 👋 My name is Radina
 
-<img src="https://github.com/radinakraeva/radinakraeva/blob/main/banner.png" alt="banner that says Radina Kraeva - a software engineer with an entreprenurial mindset">
+<img src="https://github.com/radinakraeva/radinakraeva/blob/main/profile_banner.png" alt="banner that says Radina Kraeva - a software engineer with an entreprenurial mindset">
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, JavaScript and Java.
 
 
